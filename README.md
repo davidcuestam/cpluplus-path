@@ -1,2 +1,2 @@
 # cpluplus-path
-PLuralsight C++ Path
+Pluralsight C++ Path
