@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/ConstWithPointers/Person.cpp
+Person.h
+/Users/davidcuesta/CLionProjects/ConstWithPointers/Person.h
+iostream
+-
+string
+-
+
+/Users/davidcuesta/CLionProjects/ConstWithPointers/Person.h
+string
+-
+
+/Users/davidcuesta/CLionProjects/ConstWithPointers/main.cpp
+iostream
+-
+string
+-
+Person.h
+/Users/davidcuesta/CLionProjects/ConstWithPointers/Person.h
+

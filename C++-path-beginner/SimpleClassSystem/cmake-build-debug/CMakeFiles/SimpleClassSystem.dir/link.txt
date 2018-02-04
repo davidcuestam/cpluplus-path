@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SimpleClassSystem.dir/SimpleClasses.cpp.o CMakeFiles/SimpleClassSystem.dir/Account.cpp.o CMakeFiles/SimpleClassSystem.dir/Transaction.cpp.o  -o SimpleClassSystem 

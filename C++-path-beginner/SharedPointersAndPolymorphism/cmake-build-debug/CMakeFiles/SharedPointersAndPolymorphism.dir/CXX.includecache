@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Person.cpp
+Person.h
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Person.h
+iostream
+-
+
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Person.h
+string
+-
+
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Tweeter.cpp
+Tweeter.h
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Tweeter.h
+iostream
+-
+
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Tweeter.h
+string
+-
+Person.h
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Person.h
+
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/main.cpp
+iostream
+-
+string
+-
+Tweeter.h
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Tweeter.h
+Person.h
+/Users/davidcuesta/CLionProjects/SharedPointersAndPolymorphism/Person.h
+memory
+-
+

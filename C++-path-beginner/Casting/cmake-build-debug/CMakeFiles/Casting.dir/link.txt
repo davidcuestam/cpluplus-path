@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Casting.dir/main.cpp.o CMakeFiles/Casting.dir/Person.cpp.o CMakeFiles/Casting.dir/Tweeter.cpp.o  -o Casting 

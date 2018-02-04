@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Person.cpp
+Person.h
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Person.h
+iostream
+-
+Resource.h
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Resource.h
+
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Person.h
+string
+-
+memory
+-
+Resource.h
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Resource.h
+
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Resource.cpp
+Resource.h
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Resource.h
+string
+-
+iostream
+-
+
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Resource.h
+string
+-
+
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/main.cpp
+iostream
+-
+string
+-
+Resource.h
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Resource.h
+Person.h
+/Users/davidcuesta/CLionProjects/ManualMemoryManagement/Person.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PointersAndInhetirance.dir/main.cpp.o CMakeFiles/PointersAndInhetirance.dir/Person.cpp.o CMakeFiles/PointersAndInhetirance.dir/Tweeter.cpp.o  -o PointersAndInhetirance 

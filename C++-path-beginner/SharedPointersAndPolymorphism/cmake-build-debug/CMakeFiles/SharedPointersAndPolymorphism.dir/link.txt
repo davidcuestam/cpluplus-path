@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SharedPointersAndPolymorphism.dir/main.cpp.o CMakeFiles/SharedPointersAndPolymorphism.dir/Person.cpp.o CMakeFiles/SharedPointersAndPolymorphism.dir/Tweeter.cpp.o  -o SharedPointersAndPolymorphism 

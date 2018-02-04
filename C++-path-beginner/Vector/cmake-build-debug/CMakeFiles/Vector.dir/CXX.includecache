@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Person.cpp
+Person.h
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Person.h
+iostream
+-
+
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Person.h
+string
+-
+
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Tweeter.cpp
+Tweeter.h
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Tweeter.h
+iostream
+-
+
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Tweeter.h
+string
+-
+Person.h
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Person.h
+
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/main.cpp
+iostream
+-
+vector
+-
+Person.h
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Person.h
+Tweeter.h
+/Users/davidcuesta/CLionProjects/C++-path-beginner/Vector/Tweeter.h
+

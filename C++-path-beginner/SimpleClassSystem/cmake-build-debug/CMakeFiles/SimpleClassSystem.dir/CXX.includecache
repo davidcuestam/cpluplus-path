@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Account.cpp
+Account.h
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Account.h
+string
+-
+
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Account.h
+vector
+-
+string
+-
+Transaction.h
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Transaction.h
+
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/SimpleClasses.cpp
+iostream
+-
+Account.h
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Account.h
+
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Transaction.cpp
+Transaction.h
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Transaction.h
+
+/Users/davidcuesta/CLionProjects/SimpleClassSystem/Transaction.h
+string
+-
+

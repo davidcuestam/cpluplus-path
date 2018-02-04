@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ErrorMessages.dir/main.cpp.o CMakeFiles/ErrorMessages.dir/Tweeter.cpp.o CMakeFiles/ErrorMessages.dir/Person.cpp.o  -o ErrorMessages 

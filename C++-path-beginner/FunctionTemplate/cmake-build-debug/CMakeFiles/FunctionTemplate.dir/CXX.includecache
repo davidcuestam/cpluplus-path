@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Accum.h
+
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Accumulator.cpp
+iostream
+-
+Person.h
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Person.h
+string
+-
+Accum.h
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Accum.h
+
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Person.cpp
+Person.h
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Person.h
+iostream
+-
+
+/Users/davidcuesta/CLionProjects/FunctionTemplate/Person.h
+string
+-
+

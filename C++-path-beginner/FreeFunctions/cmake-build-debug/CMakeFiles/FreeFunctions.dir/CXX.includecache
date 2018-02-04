@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidcuesta/CLionProjects/FreeFunctions/Utility.cpp
+Utility.h
+/Users/davidcuesta/CLionProjects/FreeFunctions/Utility.h
+
+/Users/davidcuesta/CLionProjects/FreeFunctions/Utility.h
+
+/Users/davidcuesta/CLionProjects/FreeFunctions/main.cpp
+iostream
+-
+Utility.h
+/Users/davidcuesta/CLionProjects/FreeFunctions/Utility.h
+

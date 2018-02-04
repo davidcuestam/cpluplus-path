@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ManualMemoryManagement.dir/main.cpp.o CMakeFiles/ManualMemoryManagement.dir/Resource.cpp.o CMakeFiles/ManualMemoryManagement.dir/Person.cpp.o  -o ManualMemoryManagement 

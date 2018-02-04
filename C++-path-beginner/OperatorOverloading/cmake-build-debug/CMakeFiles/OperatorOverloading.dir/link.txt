@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/OperatorOverloading.dir/main.cpp.o CMakeFiles/OperatorOverloading.dir/Person.cpp.o  -o OperatorOverloading 
